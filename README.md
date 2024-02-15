@@ -23,6 +23,8 @@
   <li>HTML</li>
   <li>D3.js</li>
   <li>Git Pages</li>
+  <li>Boostrap</li>
+  <li>Plotly</li>
   
 </ul>
 
